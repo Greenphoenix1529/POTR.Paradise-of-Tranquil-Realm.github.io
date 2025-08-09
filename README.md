@@ -1,7 +1,6 @@
 # POTR.Paradise-of-Tranquil-Realm.github.io
 逸境天堂-Paradise of Tranquil Realm官网
 
-<!DOCTYPE html>
 <html lang="zh-CN">
 <head>
     <meta charset="UTF-8">
@@ -69,5 +68,3 @@
             </li>
         </ul>
     </div>
-</body>
-</html>
